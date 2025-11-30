@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Scraper AI",
+  "description": "An intelligent web scraping and content analysis management system powered by Gemini. Parse, analyze, and organize web content with ease.",
+  "requestFramePermissions": []
+}
